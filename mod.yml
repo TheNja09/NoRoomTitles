@@ -6,7 +6,7 @@ assets:
   method: copy
   source:
   - name: US__bar0.dds
-- name: remastered\map\us\al01.bar\US_al03_bar0.dds
+- name: remastered\map\us\al01.bar\US_al01_bar0.dds
   platform: pc
   method: copy
   source:
