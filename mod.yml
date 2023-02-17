@@ -816,11 +816,11 @@ assets:
   method: copy
   source:
   - name: US__bar0.dds
-- name: remastered\map\us\mu00.bar\US_mu00_bar0.dds
+- name: remastered\map\us\mu00.bar\US_mu00_bar0.png
   platform: pc
   method: copy
   source:
-  - name: US__bar0.dds
+  - name: US__bar0.png
 - name: remastered\map\us\mu01.bar\US_mu01_bar0.dds
   platform: pc
   method: copy
