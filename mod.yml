@@ -1056,7 +1056,7 @@ assets:
   method: copy
   source:
   - name: US__bar0.dds
-- name: remastered\map\us\tt02.bar\US_tt03_bar0.dds
+- name: remastered\map\us\tt02.bar\US_tt02_bar0.dds
   platform: pc
   method: copy
   source:
